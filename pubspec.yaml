@@ -67,8 +67,9 @@ flutter:
     - family: Nunito
       fonts:
         - asset: assets/fonts/Nunito-Regular.ttf
-        - asset: assets/fonts/Nunito-Italic.ttf
+        - asset: assets/fonts/Nunito-Bold.ttf
         - asset: assets/fonts/Nunito-Black.ttf
+        - asset: assets/fonts/Nunito-Italic.ttf        
   #        style: italic
   #   - family: Trajan Pro
   #     fonts:
